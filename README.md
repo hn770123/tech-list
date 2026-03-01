@@ -6,7 +6,8 @@
 
 以下のリンクから、HTMLとしてレンダリングされた技術メモの一覧を確認できます。
 
-[👉 技術メモ一覧を見る (GitHub Pages) 👈](https://<username>.github.io/<repository>/)
+[👉 技術メモ一覧を見る (GitHub Pages) 👈](https://hn770123.github.io/tech-list/)
+
 
 > **注意:** 上記URLの `<username>` および `<repository>` は、実際のリポジトリの所有者名とリポジトリ名に置き換えてください。
 >
