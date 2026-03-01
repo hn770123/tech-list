@@ -9,10 +9,13 @@
 const markdownFiles = [
     { title: "AWS Lambda", path: "docs/tech_memos/aws_lambda.md" },
     { title: "Cloudflare Worker D1", path: "docs/tech_memos/cloudflare_worker_d1.md" },
+    { title: "C# Client Server Architecture", path: "docs/tech_memos/csharp_client_server_architecture.md" },
+    { title: "Electron", path: "docs/tech_memos/electron.md" },
     { title: "Firebase Evaluation", path: "docs/tech_memos/firebase_evaluation.md" },
     { title: "GAS App Development", path: "docs/tech_memos/gas_app_development.md" },
     { title: "GitHub Pages Supabase", path: "docs/tech_memos/github_pages_supabase.md" },
-    { title: "Node.js", path: "docs/tech_memos/nodejs.md" }
+    { title: "Node.js", path: "docs/tech_memos/nodejs.md" },
+    { title: "Ruby on Rails", path: "docs/tech_memos/ruby_on_rails.md" }
 ];
 
 /**
